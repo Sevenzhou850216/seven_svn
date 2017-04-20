@@ -1,6 +1,6 @@
 # seven_svn
 
-abcd
+abcd_sevenzhou123456
 Users Request Access to Powerbroker Group
 After the Powerbroker group is created, members of the project team who need to switch user to the project team’s service account for each EAP Hortonworks environment should submit a Linux SRPA request in VSM to be to be added to a pre-approved privileged access group.  In the SRPA request, specify the name of the PB group created in the previous section of this document.  The BDS team has provided a document with instructions for submitting the SRPA request.
 Table of Contents
